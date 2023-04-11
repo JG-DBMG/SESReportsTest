@@ -13,6 +13,9 @@ namespace SESReportsTest
 
             // Navigate To Site
             webDriver.Navigate().GoToUrl("https://sesqa.schuff.com/");
+
+            // Open SES 000
+
             
         }
     }
